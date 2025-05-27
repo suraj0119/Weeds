@@ -1,0 +1,21 @@
+{
+  "name": "WEEDS - Women's Education and Economic Development Society",
+  "short_name": "WEEDS",
+  "description": "Empowering women and children through education, skill development, and community initiatives since 1989.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3C3B6E",
+  "icons": [
+    {
+      "src": "/logo-weeds.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-weeds.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
